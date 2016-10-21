@@ -1,0 +1,13 @@
+ROS packages for the Summit XL robots of the University of Ulster, Intelligent Systems Research Centre, Cognitive Robotics Team.
+
+This code can be used on a mobile robot for avoiding obstacles. This code was originally written for use
+with a Summit XL mobile robot from Robotnik using laser readings as the means for determining obstacles.
+However it can be configured to be used for any mobile robot using either laser and/or sonar readings.
+It is based on the use of a potential fields algorithm in that it treats all obstacles as a potential
+field. For more information please see the paper entitled "Biological Goal Seeking", submitted to 
+ICRA 2017.
+
+Authors: Philip Vance <p.vance@ulster.ac.uk>
+Emmett Kerr <ep.Kerr@ulster.ac.uk>
+
+http://http://isrc.ulster.ac.uk/cognitive-robotics-team/welcome-to-the-cognitive-robotics-research-team.html
